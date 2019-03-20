@@ -1,8 +1,8 @@
-#praneethsai
-n1=int(input())
-if n1>0:
+#praneethsai ummadisetty
+z=int(input())
+if z>0:
   print("Positive")
-elif n1<0:
+elif z<0:
   print("Negative")
 else:
   print("Zero")
